@@ -1,0 +1,19 @@
+{
+  "name": "kickoff",
+  "version": "1.0.0",
+  "description": "Testing the git hub waters.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewellSkk/kickoff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewellSkk/kickoff/issues"
+  },
+  "homepage": "https://github.com/NewellSkk/kickoff#readme"
+}
