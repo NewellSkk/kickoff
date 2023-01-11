@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NewellSkk/kickoff/issues"
   },
-  "homepage": "https://github.com/NewellSkk/kickoff#readme"
+  "homepage": "https://github.com/NewellSkk/kickoff#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
